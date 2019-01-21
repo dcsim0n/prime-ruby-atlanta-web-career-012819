@@ -1,7 +1,7 @@
 # Add  code here!
 
 def prime?(num)
-  if num < 1
+  if num < 2
     return false
   end
   i = 2
