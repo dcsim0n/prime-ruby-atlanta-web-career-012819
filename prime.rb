@@ -10,5 +10,5 @@ def prime?(num)
     end
     i = i + 1 
   end
-    
+  return true
 end
